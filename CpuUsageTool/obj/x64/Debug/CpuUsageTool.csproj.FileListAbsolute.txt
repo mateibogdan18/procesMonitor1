@@ -1,0 +1,108 @@
+C:\Users\Bogdan\source\repos\CpuUsageTool\CpuUsageTool\bin\x64\Debug\CpuUsageTool.exe.config
+C:\Users\Bogdan\source\repos\CpuUsageTool\CpuUsageTool\bin\x64\Debug\CpuUsageTool.exe
+C:\Users\Bogdan\source\repos\CpuUsageTool\CpuUsageTool\bin\x64\Debug\CpuUsageTool.pdb
+C:\Users\Bogdan\source\repos\CpuUsageTool\CpuUsageTool\bin\x64\Debug\AWSSDK.Core.dll
+C:\Users\Bogdan\source\repos\CpuUsageTool\CpuUsageTool\bin\x64\Debug\INIFileParser.dll
+C:\Users\Bogdan\source\repos\CpuUsageTool\CpuUsageTool\bin\x64\Debug\AWSSDK.Core.pdb
+C:\Users\Bogdan\source\repos\CpuUsageTool\CpuUsageTool\bin\x64\Debug\AWSSDK.Core.xml
+C:\Users\Bogdan\source\repos\CpuUsageTool\CpuUsageTool\bin\x64\Debug\INIFileParser.xml
+C:\Users\Bogdan\source\repos\CpuUsageTool\CpuUsageTool\obj\x64\Debug\CpuUsageTool.csproj.CopyComplete
+C:\Users\Bogdan\source\repos\CpuUsageTool\CpuUsageTool\obj\x64\Debug\CpuUsageTool.exe
+C:\Users\Bogdan\source\repos\CpuUsageTool\CpuUsageTool\obj\x64\Debug\CpuUsageTool.pdb
+C:\Users\Bogdan\source\repos\CpuUsageTool\CpuUsageTool\bin\x64\Debug\Lambda2Js.Signed.dll
+C:\Users\Bogdan\source\repos\CpuUsageTool\CpuUsageTool\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Bogdan\source\repos\CpuUsageTool\CpuUsageTool\bin\x64\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Bogdan\source\repos\CpuUsageTool\CpuUsageTool\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\Bogdan\source\repos\CpuUsageTool\CpuUsageTool\bin\x64\Debug\Raven.Client.dll
+C:\Users\Bogdan\source\repos\CpuUsageTool\CpuUsageTool\bin\x64\Debug\Sparrow.dll
+C:\Users\Bogdan\source\repos\CpuUsageTool\CpuUsageTool\bin\x64\Debug\System.Buffers.dll
+C:\Users\Bogdan\source\repos\CpuUsageTool\CpuUsageTool\bin\x64\Debug\System.Memory.dll
+C:\Users\Bogdan\source\repos\CpuUsageTool\CpuUsageTool\bin\x64\Debug\System.Numerics.Vectors.dll
+C:\Users\Bogdan\source\repos\CpuUsageTool\CpuUsageTool\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Bogdan\source\repos\CpuUsageTool\CpuUsageTool\bin\x64\Debug\System.Security.Cryptography.Cng.dll
+C:\Users\Bogdan\source\repos\CpuUsageTool\CpuUsageTool\bin\x64\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Bogdan\source\repos\CpuUsageTool\CpuUsageTool\bin\x64\Debug\Lambda2Js.Signed.xml
+C:\Users\Bogdan\source\repos\CpuUsageTool\CpuUsageTool\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Bogdan\source\repos\CpuUsageTool\CpuUsageTool\bin\x64\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Bogdan\source\repos\CpuUsageTool\CpuUsageTool\bin\x64\Debug\Newtonsoft.Json.xml
+C:\Users\Bogdan\source\repos\CpuUsageTool\CpuUsageTool\bin\x64\Debug\Raven.Client.xml
+C:\Users\Bogdan\source\repos\CpuUsageTool\CpuUsageTool\bin\x64\Debug\Sparrow.xml
+C:\Users\Bogdan\source\repos\CpuUsageTool\CpuUsageTool\bin\x64\Debug\System.Buffers.xml
+C:\Users\Bogdan\source\repos\CpuUsageTool\CpuUsageTool\bin\x64\Debug\System.Memory.xml
+C:\Users\Bogdan\source\repos\CpuUsageTool\CpuUsageTool\bin\x64\Debug\System.Numerics.Vectors.xml
+C:\Users\Bogdan\source\repos\CpuUsageTool\CpuUsageTool\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Bogdan\source\repos\CpuUsageTool\CpuUsageTool\bin\x64\Debug\System.Security.Cryptography.Cng.xml
+C:\Users\Bogdan\source\repos\CpuUsageTool\CpuUsageTool\bin\x64\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Alessia\Desktop\proiecte in c#\CpuUsageTool\CpuUsageTool\bin\x64\Debug\CpuUsageTool.exe.config
+C:\Users\Alessia\Desktop\proiecte in c#\CpuUsageTool\CpuUsageTool\bin\x64\Debug\CpuUsageTool.exe
+C:\Users\Alessia\Desktop\proiecte in c#\CpuUsageTool\CpuUsageTool\bin\x64\Debug\CpuUsageTool.pdb
+C:\Users\Alessia\Desktop\proiecte in c#\CpuUsageTool\CpuUsageTool\bin\x64\Debug\AWSSDK.Core.dll
+C:\Users\Alessia\Desktop\proiecte in c#\CpuUsageTool\CpuUsageTool\bin\x64\Debug\INIFileParser.dll
+C:\Users\Alessia\Desktop\proiecte in c#\CpuUsageTool\CpuUsageTool\bin\x64\Debug\Lambda2Js.Signed.dll
+C:\Users\Alessia\Desktop\proiecte in c#\CpuUsageTool\CpuUsageTool\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Alessia\Desktop\proiecte in c#\CpuUsageTool\CpuUsageTool\bin\x64\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Alessia\Desktop\proiecte in c#\CpuUsageTool\CpuUsageTool\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\Alessia\Desktop\proiecte in c#\CpuUsageTool\CpuUsageTool\bin\x64\Debug\Raven.Client.dll
+C:\Users\Alessia\Desktop\proiecte in c#\CpuUsageTool\CpuUsageTool\bin\x64\Debug\Sparrow.dll
+C:\Users\Alessia\Desktop\proiecte in c#\CpuUsageTool\CpuUsageTool\bin\x64\Debug\System.Buffers.dll
+C:\Users\Alessia\Desktop\proiecte in c#\CpuUsageTool\CpuUsageTool\bin\x64\Debug\System.Memory.dll
+C:\Users\Alessia\Desktop\proiecte in c#\CpuUsageTool\CpuUsageTool\bin\x64\Debug\System.Numerics.Vectors.dll
+C:\Users\Alessia\Desktop\proiecte in c#\CpuUsageTool\CpuUsageTool\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Alessia\Desktop\proiecte in c#\CpuUsageTool\CpuUsageTool\bin\x64\Debug\System.Security.Cryptography.Cng.dll
+C:\Users\Alessia\Desktop\proiecte in c#\CpuUsageTool\CpuUsageTool\bin\x64\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Alessia\Desktop\proiecte in c#\CpuUsageTool\CpuUsageTool\bin\x64\Debug\AWSSDK.Core.pdb
+C:\Users\Alessia\Desktop\proiecte in c#\CpuUsageTool\CpuUsageTool\bin\x64\Debug\AWSSDK.Core.xml
+C:\Users\Alessia\Desktop\proiecte in c#\CpuUsageTool\CpuUsageTool\bin\x64\Debug\INIFileParser.xml
+C:\Users\Alessia\Desktop\proiecte in c#\CpuUsageTool\CpuUsageTool\bin\x64\Debug\Lambda2Js.Signed.xml
+C:\Users\Alessia\Desktop\proiecte in c#\CpuUsageTool\CpuUsageTool\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Alessia\Desktop\proiecte in c#\CpuUsageTool\CpuUsageTool\bin\x64\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Alessia\Desktop\proiecte in c#\CpuUsageTool\CpuUsageTool\bin\x64\Debug\Newtonsoft.Json.xml
+C:\Users\Alessia\Desktop\proiecte in c#\CpuUsageTool\CpuUsageTool\bin\x64\Debug\Raven.Client.xml
+C:\Users\Alessia\Desktop\proiecte in c#\CpuUsageTool\CpuUsageTool\bin\x64\Debug\Sparrow.xml
+C:\Users\Alessia\Desktop\proiecte in c#\CpuUsageTool\CpuUsageTool\bin\x64\Debug\System.Buffers.xml
+C:\Users\Alessia\Desktop\proiecte in c#\CpuUsageTool\CpuUsageTool\bin\x64\Debug\System.Memory.xml
+C:\Users\Alessia\Desktop\proiecte in c#\CpuUsageTool\CpuUsageTool\bin\x64\Debug\System.Numerics.Vectors.xml
+C:\Users\Alessia\Desktop\proiecte in c#\CpuUsageTool\CpuUsageTool\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Alessia\Desktop\proiecte in c#\CpuUsageTool\CpuUsageTool\bin\x64\Debug\System.Security.Cryptography.Cng.xml
+C:\Users\Alessia\Desktop\proiecte in c#\CpuUsageTool\CpuUsageTool\bin\x64\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Alessia\Desktop\proiecte in c#\CpuUsageTool\CpuUsageTool\obj\x64\Debug\CpuUsageTool.csproj.AssemblyReference.cache
+C:\Users\Alessia\Desktop\proiecte in c#\CpuUsageTool\CpuUsageTool\obj\x64\Debug\CpuUsageTool.csproj.CoreCompileInputs.cache
+C:\Users\Alessia\Desktop\proiecte in c#\CpuUsageTool\CpuUsageTool\obj\x64\Debug\CpuUsageTool.exe
+C:\Users\Alessia\Desktop\proiecte in c#\CpuUsageTool\CpuUsageTool\obj\x64\Debug\CpuUsageTool.pdb
+C:\Users\Alessia\Desktop\proiecteincsharp\CpuUsageTool\CpuUsageTool\bin\x64\Debug\CpuUsageTool.exe.config
+C:\Users\Alessia\Desktop\proiecteincsharp\CpuUsageTool\CpuUsageTool\bin\x64\Debug\CpuUsageTool.exe
+C:\Users\Alessia\Desktop\proiecteincsharp\CpuUsageTool\CpuUsageTool\bin\x64\Debug\CpuUsageTool.pdb
+C:\Users\Alessia\Desktop\proiecteincsharp\CpuUsageTool\CpuUsageTool\bin\x64\Debug\AWSSDK.Core.dll
+C:\Users\Alessia\Desktop\proiecteincsharp\CpuUsageTool\CpuUsageTool\bin\x64\Debug\INIFileParser.dll
+C:\Users\Alessia\Desktop\proiecteincsharp\CpuUsageTool\CpuUsageTool\bin\x64\Debug\Lambda2Js.Signed.dll
+C:\Users\Alessia\Desktop\proiecteincsharp\CpuUsageTool\CpuUsageTool\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Alessia\Desktop\proiecteincsharp\CpuUsageTool\CpuUsageTool\bin\x64\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Alessia\Desktop\proiecteincsharp\CpuUsageTool\CpuUsageTool\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\Alessia\Desktop\proiecteincsharp\CpuUsageTool\CpuUsageTool\bin\x64\Debug\Raven.Client.dll
+C:\Users\Alessia\Desktop\proiecteincsharp\CpuUsageTool\CpuUsageTool\bin\x64\Debug\Sparrow.dll
+C:\Users\Alessia\Desktop\proiecteincsharp\CpuUsageTool\CpuUsageTool\bin\x64\Debug\System.Buffers.dll
+C:\Users\Alessia\Desktop\proiecteincsharp\CpuUsageTool\CpuUsageTool\bin\x64\Debug\System.Memory.dll
+C:\Users\Alessia\Desktop\proiecteincsharp\CpuUsageTool\CpuUsageTool\bin\x64\Debug\System.Numerics.Vectors.dll
+C:\Users\Alessia\Desktop\proiecteincsharp\CpuUsageTool\CpuUsageTool\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Alessia\Desktop\proiecteincsharp\CpuUsageTool\CpuUsageTool\bin\x64\Debug\System.Security.Cryptography.Cng.dll
+C:\Users\Alessia\Desktop\proiecteincsharp\CpuUsageTool\CpuUsageTool\bin\x64\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Alessia\Desktop\proiecteincsharp\CpuUsageTool\CpuUsageTool\bin\x64\Debug\AWSSDK.Core.pdb
+C:\Users\Alessia\Desktop\proiecteincsharp\CpuUsageTool\CpuUsageTool\bin\x64\Debug\AWSSDK.Core.xml
+C:\Users\Alessia\Desktop\proiecteincsharp\CpuUsageTool\CpuUsageTool\bin\x64\Debug\INIFileParser.xml
+C:\Users\Alessia\Desktop\proiecteincsharp\CpuUsageTool\CpuUsageTool\bin\x64\Debug\Lambda2Js.Signed.xml
+C:\Users\Alessia\Desktop\proiecteincsharp\CpuUsageTool\CpuUsageTool\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Alessia\Desktop\proiecteincsharp\CpuUsageTool\CpuUsageTool\bin\x64\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Alessia\Desktop\proiecteincsharp\CpuUsageTool\CpuUsageTool\bin\x64\Debug\Newtonsoft.Json.xml
+C:\Users\Alessia\Desktop\proiecteincsharp\CpuUsageTool\CpuUsageTool\bin\x64\Debug\Raven.Client.xml
+C:\Users\Alessia\Desktop\proiecteincsharp\CpuUsageTool\CpuUsageTool\bin\x64\Debug\Sparrow.xml
+C:\Users\Alessia\Desktop\proiecteincsharp\CpuUsageTool\CpuUsageTool\bin\x64\Debug\System.Buffers.xml
+C:\Users\Alessia\Desktop\proiecteincsharp\CpuUsageTool\CpuUsageTool\bin\x64\Debug\System.Memory.xml
+C:\Users\Alessia\Desktop\proiecteincsharp\CpuUsageTool\CpuUsageTool\bin\x64\Debug\System.Numerics.Vectors.xml
+C:\Users\Alessia\Desktop\proiecteincsharp\CpuUsageTool\CpuUsageTool\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Alessia\Desktop\proiecteincsharp\CpuUsageTool\CpuUsageTool\bin\x64\Debug\System.Security.Cryptography.Cng.xml
+C:\Users\Alessia\Desktop\proiecteincsharp\CpuUsageTool\CpuUsageTool\bin\x64\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Alessia\Desktop\proiecteincsharp\CpuUsageTool\CpuUsageTool\obj\x64\Debug\CpuUsageTool.csproj.AssemblyReference.cache
+C:\Users\Alessia\Desktop\proiecteincsharp\CpuUsageTool\CpuUsageTool\obj\x64\Debug\CpuUsageTool.csproj.CoreCompileInputs.cache
+C:\Users\Alessia\Desktop\proiecteincsharp\CpuUsageTool\CpuUsageTool\obj\x64\Debug\CpuUsageTool.exe
+C:\Users\Alessia\Desktop\proiecteincsharp\CpuUsageTool\CpuUsageTool\obj\x64\Debug\CpuUsageTool.pdb
+C:\Users\Alessia\Desktop\proiecteincsharp\CpuUsageTool\CpuUsageTool\obj\x64\Debug\CpuUsageTool.csproj.CopyComplete
